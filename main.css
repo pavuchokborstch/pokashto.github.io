@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(63, 62, 63);
+    background-size: cover;
+    text-align: center
+                                          
+  }
+
+frameset {
+    background-color: rgb(63, 62, 63);
+  }
+
+h1 {
+    color: #adacb3;
+    font-family: 'Russian', sans-serif;  
+}
+
+p {
+    color: white;
+    font-family: 'Russian', sans-serif;  
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 1px;
+    padding: 1px;
+    width: 279px;
+}
